@@ -1,0 +1,36 @@
+# Compiled files
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+.vs/
+/.vscode/
+
+# ReSharper files
+_ReSharper.*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nuget.targets
+.project.lock.json
+.project.assets.json
+*.lock.json
